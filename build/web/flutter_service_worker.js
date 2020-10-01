@@ -5,15 +5,17 @@ const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
   "index.html": "b0ba8de2a8c7efad102efc53d5ea869d",
 "/": "b0ba8de2a8c7efad102efc53d5ea869d",
-"main.dart.js": "6c4794258370002795b9eac5044bf796",
+"main.dart.js": "5158c979504e8e08d4a92f0e8d62c1da",
 "favicon.png": "5dcef449791fa27946b3d35ad8803796",
 "icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "manifest.json": "a15a78a33cf0bacb4570ab56c70090e2",
-"assets/AssetManifest.json": "2efbb41d7877d10aac9d091f58ccd7b9",
-"assets/NOTICES": "e7bd0d1ea68cf0ebff3fe7f45b39af66",
+"assets/AssetManifest.json": "b39ab8daf59bf3adf1efc310ce844d63",
+"assets/NOTICES": "ee3d82dbf7c3cef423af873118a8ffc1",
 "assets/FontManifest.json": "dc3d03800ccca4601324923c0b1d6d57",
 "assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "115e937bb829a890521f72d2e664b632",
+"assets/packages/flutter_inappwebview/t_rex_runner/t-rex.css": "5a8d0222407e388155d7d1395a75d5b9",
+"assets/packages/flutter_inappwebview/t_rex_runner/t-rex.html": "16911fcc170c8af1c5457940bd0bf055",
 "assets/fonts/MaterialIcons-Regular.otf": "a68d2a28c526b3b070aefca4bac93d25"
 };
 
