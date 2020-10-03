@@ -4,9 +4,9 @@ const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
   "native_bridge.js": "dfa0d5145e60c22da12962319ccd6659",
-"index.html": "440dbfce0b4c028d0de05337f6bf127e",
-"/": "440dbfce0b4c028d0de05337f6bf127e",
-"main.dart.js": "a91c033611bb928b8b4c2c66136c5729",
+"index.html": "d6558fab79bc4b65d617cb295dfc8ad2",
+"/": "d6558fab79bc4b65d617cb295dfc8ad2",
+"main.dart.js": "772bf932979e8f15c6005e362e67e33b",
 "favicon.png": "5dcef449791fa27946b3d35ad8803796",
 "icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
