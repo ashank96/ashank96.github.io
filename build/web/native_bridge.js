@@ -96,6 +96,6 @@ function getThemeData() {
 }
 
 function testFuncFromNative(){
-    return "testFuncFromNative";
+    return window.testFuncFromNative();
 }
 

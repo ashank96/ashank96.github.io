@@ -9347,7 +9347,7 @@ q.DG(new Z.zr(null))
 q.vy()
 return P.ap(null,r)}})
 return P.aq($async$Yk,r)},
-aaO:function(){return self.testFuncFromNative()},
+aaO:function(){return"Flutter says hello"},
 zr:function zr(a){this.a=a},
 NS:function NS(){},
 NT:function NT(){},
