@@ -3,9 +3,9 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
-  "native_bridge.js": "dfa0d5145e60c22da12962319ccd6659",
-"index.html": "d6558fab79bc4b65d617cb295dfc8ad2",
-"/": "d6558fab79bc4b65d617cb295dfc8ad2",
+  "native_bridge.js": "610944c2d5ad3f3aaf9d0da1c9677487",
+"index.html": "fba08cffdcf68ce2e20c526056c27b71",
+"/": "fba08cffdcf68ce2e20c526056c27b71",
 "main.dart.js": "772bf932979e8f15c6005e362e67e33b",
 "favicon.png": "5dcef449791fa27946b3d35ad8803796",
 "icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
