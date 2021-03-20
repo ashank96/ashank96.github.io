@@ -19,6 +19,15 @@ function openMyTransactions() {
     }
 }
 
+function onAppInit() {
+    try {
+        host = NativeFlutterInterface.onAppInit() ;
+    }
+    catch (e) {
+        console.log(`NativeFlutterInterface not found !`);
+    }
+}
+
 function openCustomerSupport() {
     try {
         host = NativeFlutterInterface.openCustomerSupport() ;
