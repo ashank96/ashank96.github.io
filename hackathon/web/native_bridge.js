@@ -83,3 +83,14 @@ function getThemeData() {
     return result;
 }
 
+function makePaymentCallbackToPartner(paymentInitData) {
+    let result = '{}' ;
+     try {
+            result = NativeFlutterInterface.makePaymentCallbackToPartner(paymentInitData);
+        }
+        catch (e) {
+            console.log(`NativeFlutterInterface not found !`);
+        }
+     return result;
+}
+
