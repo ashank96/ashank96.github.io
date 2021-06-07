@@ -1,10 +1,10 @@
 self.$__dart_deferred_initializers__=self.$__dart_deferred_initializers__||Object.create(null)
-$__dart_deferred_initializers__.current=function(a,b,c,$){var C,H,J,P,W,Y,N,B={F_:function F_(){this.a=null},aM4:function aM4(d,e){this.a=d
+$__dart_deferred_initializers__.current=function(a,b,c,$){var C,H,J,P,W,Y,N,B={Hb:function Hb(){this.a=null},aM4:function aM4(d,e){this.a=d
 this.b=e},NH:function NH(d,e){this.a=d
 this.b=e}},X,L,T,Z,U,D,F,R={
-bZk:function(){var w=$.ag
-return w==null?$.ag=new R.be():w},
-be:function be(){this.a=null},
+bZk:function(){var w=$.ak
+return w==null?$.ak=new R.bf():w},
+bf:function bf(){this.a=null},
 aLc:function aLc(d,e,f){this.a=d
 this.b=e
 this.c=f},
@@ -40,17 +40,17 @@ A=c[21]
 K=c[22]
 Q=c[23]
 M=c[24]
-R.be.prototype={
-rZ:function(d,e,f,g){return this.aJ0(d,e,f,g,g.i("0*"))},
-zM:function(d,e){return this.rZ(d,null,!1,e)},
+R.bf.prototype={
+rZ:function(d,e,f,g){return this.aJ_(d,e,f,g,g.i("0*"))},
+FX:function(d,e){return this.rZ(d,null,!1,e)},
 eJ:function(d,e,f){return this.rZ(d,e,!1,f)},
-aJ_:function(d,e,f){return this.rZ(d,null,e,f)},
-aJ0:function(d,e,f,g,h){var w=0,v=P.D(h),u,t=this,s
+aIZ:function(d,e,f){return this.rZ(d,null,e,f)},
+aJ_:function(d,e,f,g,h){var w=0,v=P.D(h),u,t=this,s
 var $async$rZ=P.y(function(i,j){if(i===1)return P.A(j,v)
-while(true)switch(w){case 0:if(f){s=$.zv
-if(s==null){s=new B.F_()
+while(true)switch(w){case 0:if(f){s=$.B8
+if(s==null){s=new B.Hb()
 s.a=H.c([],x.e)
-$.zv=s}s=s.a
+$.B8=s}s=s.a
 s=s.length===0?null:C.e.gH(s)
 s=d==(s==null?null:s.a)}else s=!1
 w=s?3:4
@@ -58,10 +58,10 @@ break
 case 3:F.ay().ai(C.cu,"Route : "+H.f(d)+" already at the top. Popping old screen",null,null)
 w=5
 return P.w(t.cK(0),$async$rZ)
-case 5:case 4:s=$.zv
-if(s==null){s=new B.F_()
+case 5:case 4:s=$.B8
+if(s==null){s=new B.Hb()
 s.a=H.c([],x.e)
-$.zv=s}s.a5t(d,f)
+$.B8=s}s.a5t(d,f)
 w=t.a.gaY()==null?6:8
 break
 case 6:F.ay().ai(C.L,"Navigator state : null",null,null)
@@ -78,60 +78,59 @@ w=1
 break
 case 1:return P.B(u,v)}})
 return P.C($async$rZ,v)},
-FT:function(){var w=0,v=P.D(x.f),u=this,t
-var $async$FT=P.y(function(d,e){if(d===1)return P.A(e,v)
-while(true)switch(w){case 0:t=$.zv
-if(t==null){t=new B.F_()
+FS:function(){var w=0,v=P.D(x.f),u=this,t
+var $async$FS=P.y(function(d,e){if(d===1)return P.A(e,v)
+while(true)switch(w){case 0:t=$.B8
+if(t==null){t=new B.Hb()
 t.a=H.c([],x.e)
-$.zv=t}w=2
-return P.w(t.mu(),$async$FT)
+$.B8=t}w=2
+return P.w(t.mu(),$async$FS)
 case 2:u.a.gaY().kx(0,null)
 return P.B(null,v)}})
-return P.C($async$FT,v)},
-mu:function(){return this.FT(x.a)},
-vH:function(d,e,f){return this.aIK(d,e,f)},
-aII:function(d){return this.vH(d,null,!1,x.a)},
-a5k:function(d,e){return this.vH(d,e,!1,x.a)},
-aIJ:function(d,e){return this.vH(d,null,e,x.a)},
-aIK:function(d,e,f){var w=0,v=P.D(x.f),u=this,t,s
-var $async$vH=P.y(function(g,h){if(g===1)return P.A(h,v)
-while(true)switch(w){case 0:s=$.zv
-if(s==null){s=new B.F_()
+return P.C($async$FS,v)},
+mu:function(){return this.FS(x.a)},
+zK:function(d,e,f){return this.aIJ(d,e,f)},
+a5k:function(d,e){return this.zK(d,e,!1,x.a)},
+aII:function(d,e){return this.zK(d,null,e,x.a)},
+aIJ:function(d,e,f){var w=0,v=P.D(x.f),u=this,t,s
+var $async$zK=P.y(function(g,h){if(g===1)return P.A(h,v)
+while(true)switch(w){case 0:s=$.B8
+if(s==null){s=new B.Hb()
 s.a=H.c([],x.e)
-$.zv=s}w=s.aB3(d,f)?2:3
+$.B8=s}w=s.aB3(d,f)?2:3
 break
 case 2:s=x.e
 case 4:if(!!0){w=5
-break}t=$.zv
-if(t==null){t=new B.F_()
+break}t=$.B8
+if(t==null){t=new B.Hb()
 t.a=H.c([],s)
-$.zv=t}t=t.a
+$.B8=t}t=t.a
 if(!((t.length===0?null:C.e.gH(t)).a!==d)){w=5
 break}w=6
-return P.w(u.ky(0,e),$async$vH)
+return P.w(u.ky(0,e),$async$zK)
 case 6:w=4
 break
 case 5:case 3:return P.B(null,v)}})
-return P.C($async$vH,v)},
-zK:function(d,e){var w=0,v=P.D(x.f),u=this,t
-var $async$zK=P.y(function(f,g){if(f===1)return P.A(g,v)
-while(true)switch(w){case 0:t=$.zv
-if(t==null){t=new B.F_()
+return P.C($async$zK,v)},
+zJ:function(d,e){var w=0,v=P.D(x.f),u=this,t
+var $async$zJ=P.y(function(f,g){if(f===1)return P.A(g,v)
+while(true)switch(w){case 0:t=$.B8
+if(t==null){t=new B.Hb()
 t.a=H.c([],x.e)
-$.zv=t}w=2
-return P.w(t.cK(0),$async$zK)
+$.B8=t}w=2
+return P.w(t.cK(0),$async$zJ)
 case 2:u.a.gaY().kx(0,e)
 return P.B(null,v)}})
-return P.C($async$zK,v)},
-cK:function(d){return this.zK(d,null,x.a)},
-ky:function(d,e){return this.zK(d,e,x.a)},
-iF:function(d,e){return this.aIW(d,e,e.i("0*"))},
-aIW:function(d,e,f){var w=0,v=P.D(f),u,t=this,s,r
+return P.C($async$zJ,v)},
+cK:function(d){return this.zJ(d,null,x.a)},
+ky:function(d,e){return this.zJ(d,e,x.a)},
+iF:function(d,e){return this.aIV(d,e,e.i("0*"))},
+aIV:function(d,e,f){var w=0,v=P.D(f),u,t=this,s,r
 var $async$iF=P.y(function(g,h){if(g===1)return P.A(h,v)
-while(true)switch(w){case 0:r=$.zv
-if(r==null){r=new B.F_()
+while(true)switch(w){case 0:r=$.B8
+if(r==null){r=new B.Hb()
 r.a=H.c([],x.e)
-$.zv=r}s=d.gaag()
+$.B8=r}s=d.gaag()
 s=s.a
 if(s==null)s=H.xK(C.bF.geL(d.gaBN()).a,null)
 r.Q1(s==null?"Unnamed Route":s)
@@ -156,11 +155,11 @@ var $async$iE=P.y(function(d,e){if(d===1)return P.A(e,v)
 while(true)switch(w){case 0:u.a.gaY().cK(0)
 return P.B(null,v)}})
 return P.C($async$iE,v)}}
-B.F_.prototype={
+B.Hb.prototype={
 a5t:function(d,e){F.ay().ai(C.L,"Stack size = "+this.a.length+"\nPushing Route : "+H.f(d)+" , with fromNative : "+e,null,null)
 this.a.push(new B.NH(d,e))},
 Q1:function(d){return this.a5t(d,!1)},
-mu:function(){var w=0,v=P.D(x.b),u,t=this,s,r
+mu:function(){var w=0,v=P.D(x.b),u,t=this
 var $async$mu=P.y(function(d,e){if(d===1)return P.A(e,v)
 while(true)switch(w){case 0:F.ay().ai(C.L,"NucleiNavigator Stack size = "+t.a.length,null,null)
 w=t.a.length!==0?3:5
@@ -168,16 +167,7 @@ break
 case 3:F.ay().ai(C.L,"NativeAware Popping route : "+H.f(C.e.gH(t.a).a)+", with fromNative : "+C.e.gH(t.a).b,null,null)
 w=C.e.gH(t.a).b?6:7
 break
-case 6:if($.Hb===C.xT&&$.beX()){s=$.ag
-if(s==null)s=$.ag=new R.be()
-r=$.zv
-if(r==null){r=new B.F_()
-r.a=H.c([],x.e)
-$.zv=r}C.e.sn(r.a,0)
-s.aII("/core/baseLoading")
-s=$.ag
-if(s==null)s=$.ag=new R.be()
-s.zM("/core/baseLoading",x.a)}F.ay().ai(C.L,"Closing Flutter View ",null,null)
+case 6:F.ay().ai(C.L,"Closing Flutter View ",null,null)
 w=8
 return P.w(Z.f8().uI(),$async$mu)
 case 8:F.ay().ai(C.L,"Closed Flutter View ",null,null)
@@ -225,11 +215,10 @@ $S:8}
 B.aM4.prototype={
 $1:function(d){return d.a===this.a&&d.b===this.b},
 $S:z+0};(function inheritance(){var w=a.inheritMany
-w(P.S,[R.be,B.F_,B.NH])
+w(P.S,[R.bf,B.Hb,B.NH])
 w(H.e4,[R.aLc,R.aLb,R.aLd,B.aM4])})()
-H.Av(b.typeUniverse,JSON.parse('{"AH":"aO","AE":"aL","AY":"aL","BL":"dN","AJ":"aS","Bo":"ax","AW":"ax","AZ":"eH","AR":"eT","AF":"dI","Bn":"eB","AN":"cI","Bz":"cI","B_":"fw","AT":"cl","AK":"f5","AI":"fy"}'))
+H.Au(b.typeUniverse,JSON.parse('{"AG":"aO","AD":"aL","AX":"aL","BL":"dN","AI":"aS","Bo":"ax","AV":"ax","AY":"eH","AQ":"eT","AE":"dI","Bn":"eB","AM":"cI","Bz":"cI","AZ":"fw","AS":"cl","AJ":"f5","AH":"fy"}'))
 var y={d:"NavigationService :called addPostFrameCallback"}
-var x={e:H.L("r<NH*>"),b:H.L("NH*"),a:H.L("S*"),f:H.L("~")};(function constants(){C.xT=new M.a9a("BuildMode.native")
-C.Lk=C.xT})();(function staticFields(){$.ag=null
-$.zv=null})()}
-$__dart_deferred_initializers__["rrw5v7kgTXd6aM2LM6jMt/EEuaw="] = $__dart_deferred_initializers__.current
+var x={e:H.L("r<NH*>"),b:H.L("NH*"),a:H.L("S*"),f:H.L("~")};(function staticFields(){$.ak=null
+$.B8=null})()}
+$__dart_deferred_initializers__["9YuyUz94q82FiVsZgJ0mlKGGo6U="] = $__dart_deferred_initializers__.current
