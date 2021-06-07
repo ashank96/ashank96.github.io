@@ -12,7 +12,16 @@ function getHostName() {
 
 function openMyTransactions() {
     try {
-        host = NativeFlutterInterface.openMyTransactions() ;
+        NativeFlutterInterface.openMyTransactions() ;
+    }
+    catch (e) {
+        console.log(`NativeFlutterInterface not found !`);
+    }
+}
+
+function openCalendar(date) {
+    try {
+        NativeFlutterInterface.openCalendar(date) ;
     }
     catch (e) {
         console.log(`NativeFlutterInterface not found !`);

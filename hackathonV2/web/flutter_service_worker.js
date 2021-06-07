@@ -7,7 +7,7 @@ const RESOURCES = {
 "version.json": "6cc20cb4e91c30bed6e35b4fdd1c39d3",
 "main.dart.js_7.part.js": "b4d6b810ed74e85e3995d33142e56205",
 "main.dart.js_12.part.js": "039ffdde2541db411c521eea47e6daa2",
-"native_bridge.js": "fec7fea879a9060a22b1d80dca752874",
+"native_bridge.js": "3ab3a7e0ed1e5a32bd5b9b32f876052c",
 "main.dart.js_6.part.js": "2cfc2c72374d638b99f5b01434133022",
 "index.html": "218fa13a1d28ed14c8bea4f09ee79574",
 "/": "218fa13a1d28ed14c8bea4f09ee79574",
